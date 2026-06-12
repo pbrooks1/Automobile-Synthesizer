@@ -15,5 +15,5 @@ The model is trained specifically on **Class 1 (Automobiles)** of the classic **
 * **Matplotlib / NumPy**: Used for matrix operations and saving visual progressions across epochs.
 
 ## 📂 Project Structure
-* `gan.py` - The monolithic production script containing the data pipeline, Generator/Discriminator neural layers, custom loss loops, and evaluation plots.
+* `GAN copy.py` - The monolithic production script containing the data pipeline, Generator/Discriminator neural layers, custom loss loops, and evaluation plots.
 * `README.md` - Project documentation and technical details.
